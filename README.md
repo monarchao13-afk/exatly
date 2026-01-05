@@ -38,7 +38,26 @@
 
 <section>
   <h2>About Us</h2>
-  <p>SkytrackXpressJA is a Jamaican-based shipping and logistics company committed to providing fast, secure, and affordable delivery solutions for individuals and businesses.</p>
+  <p>Who We Are
+At ShipExpress, we’re more than a shipping company—we’re your trusted partner in getting your packages delivered safely, quickly, and reliably. Founded with the vision to simplify shipping in Jamaica and beyond, we combine local knowledge with global standards to ensure your goods reach their destination on time, every time.
+
+    Our Mission
+Our mission is to make shipping easy, affordable, and dependable for everyone—from small businesses to individuals. We aim to remove the stress from sending and receiving packages, so our customers can focus on what matters most.
+
+Our Vision
+We envision a future where logistics and delivery are seamless, sustainable, and innovative. We strive to be the go-to solution for fast, reliable shipping in Jamaica and across international borders.
+
+What Sets Us Apart
+Reliability: Your package, our responsibility. We track every shipment with precision.
+Transparency: Clear pricing, updates at every step, and no hidden fees.
+Customer Focus: Every interaction is personal—we care about your satisfaction.
+Sustainability: We are committed to eco-friendly practices, from packaging to transport, to reduce our environmental impact.
+
+Why Choose Us?
+Whether you’re sending parcels across town or across the world, ShipExpress offers competitive rates, fast delivery times, and customer service that goes above and beyond. Our experienced team is ready to assist you at every step, ensuring your shipping experience is smooth and stress-free.
+
+Our Commitment
+We believe in building long-term relationships with our customers. Every package we handle is treated with care and professionalism. With ShipExpress, you can trust that your shipment is in safe hands..</p>
 
   <h2>Our Services</h2>
   <ul>
